@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ninebot-zhudian-server
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: TDOCS_TOKEN
+        value: 8c8d1280ea4a4b0b8a7dfb856bc4e123
