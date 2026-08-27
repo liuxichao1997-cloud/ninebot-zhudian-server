@@ -1,5 +1,181 @@
 [
   {
+    "id": "1787805099358",
+    "step1": {
+      "date": "2026-08-27",
+      "visitor": "测试员",
+      "region": "深圳",
+      "type": "常规巡检",
+      "storeName": "111",
+      "tier": "B",
+      "storeCode": "",
+      "area": "111",
+      "bizType": "街边店",
+      "openDuration": "2年",
+      "staffCount": "2",
+      "traffic": "",
+      "revenue": "80",
+      "arrive": "15:31",
+      "leave": "18:31",
+      "goals": "111",
+      "overall": "",
+      "status": "",
+      "benchmark": "",
+      "swot": {
+        "s": "",
+        "w": "",
+        "o": "",
+        "t": ""
+      }
+    },
+    "step2": {
+      "baseScore": 0,
+      "baseMax": 100,
+      "basePct": 0,
+      "bonusScore": 0,
+      "catResults": [
+        {
+          "id": "staff",
+          "name": "一、人员服务",
+          "score": 0,
+          "max": 25,
+          "failed": []
+        },
+        {
+          "id": "sanitation",
+          "name": "二、环境与卫生",
+          "score": 0,
+          "max": 24,
+          "failed": []
+        },
+        {
+          "id": "display",
+          "name": "三、产品陈列",
+          "score": 0,
+          "max": 20,
+          "failed": []
+        },
+        {
+          "id": "marketing",
+          "name": "四、营销物料",
+          "score": 0,
+          "max": 31,
+          "failed": []
+        },
+        {
+          "id": "bonus",
+          "name": "五、附加项",
+          "score": 0,
+          "max": 17,
+          "failed": []
+        }
+      ],
+      "rawAnswers": [
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    "step3": {
+      "experiences": []
+    },
+    "step4": {
+      "issues": [],
+      "painPoints": ""
+    },
+    "step5": {
+      "caseTitle": "",
+      "caseType": "门店改造",
+      "applyRegion": "",
+      "background": "",
+      "coreExp": "",
+      "results": "",
+      "promotion": "",
+      "files": []
+    },
+    "createdAt": "2026-08-27T04:31:39.359Z",
+    "syncedAt": "2026-08-27T04:31:43.322Z",
+    "tdocUrl": null
+  },
+  {
     "id": "test-1787804822",
     "step1": {
       "storeName": "云端测试门店",
