@@ -1,5 +1,234 @@
 [
   {
+    "id": "1787990154632",
+    "step1": {
+      "date": "2026-08-29",
+      "visitor": "刘熙朝",
+      "region": "深圳坪山",
+      "type": "专项帮扶",
+      "storeName": "深圳市坪山区蓝湾花园九号店",
+      "tier": "A",
+      "storeCode": "",
+      "area": "130",
+      "bizType": "社区店",
+      "openDuration": "3个月",
+      "staffCount": "2",
+      "traffic": "30人/日",
+      "revenue": "80",
+      "arrive": "15:00",
+      "leave": "18:00",
+      "goals": "线上平台回复效果及方法宣贯；APP星级评价方法同步；",
+      "overall": "",
+      "status": "",
+      "benchmark": "",
+      "swot": {
+        "s": "",
+        "w": "",
+        "o": "",
+        "t": ""
+      }
+    },
+    "step2": {
+      "baseScore": 94,
+      "baseMax": 100,
+      "basePct": 94,
+      "bonusScore": 0,
+      "catResults": [
+        {
+          "id": "staff",
+          "name": "一、人员服务",
+          "score": 25,
+          "max": 25,
+          "failed": []
+        },
+        {
+          "id": "sanitation",
+          "name": "二、环境与卫生",
+          "score": 22,
+          "max": 24,
+          "failed": [
+            {
+              "idx": 27,
+              "label": "收银台干净整洁，不堆放杂物",
+              "pt": 2
+            }
+          ]
+        },
+        {
+          "id": "display",
+          "name": "三、产品陈列",
+          "score": 16,
+          "max": 20,
+          "failed": [
+            {
+              "idx": 34,
+              "label": "店内至少1台主推电摩试坐车（M5/Q3/Q5/M3，非70C）",
+              "pt": 3
+            },
+            {
+              "idx": 36,
+              "label": "展车蓝膜已去除",
+              "pt": 1
+            }
+          ]
+        },
+        {
+          "id": "marketing",
+          "name": "四、营销物料",
+          "score": 31,
+          "max": 31,
+          "failed": []
+        },
+        {
+          "id": "bonus",
+          "name": "五、附加项",
+          "score": 0,
+          "max": 17,
+          "failed": []
+        }
+      ],
+      "rawAnswers": [
+        [
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass"
+        ],
+        [
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "fail",
+          "pass",
+          "pass",
+          "pass"
+        ],
+        [
+          "pass",
+          "pass",
+          "pass",
+          "fail",
+          "pass",
+          "fail",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass"
+        ],
+        [
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass",
+          "pass"
+        ],
+        [
+          "na",
+          "na",
+          "na",
+          "na",
+          "na",
+          "na",
+          "na",
+          "na",
+          "na",
+          "na",
+          "na"
+        ]
+      ]
+    },
+    "step3": {
+      "experiences": [
+        {
+          "id": "1787989383627",
+          "name": "线上运营",
+          "fit": "通用",
+          "difficulty": "低",
+          "detail": "1.每天一条短视频，各个平台同步宣发；一周五场直播，晚上定点开播，保持账号热度；\n2.坚持每天线上平台回复打卡，解决客户疑问；",
+          "effect": "",
+          "caution": "短视频及直播注意违规违禁词"
+        },
+        {
+          "id": "1787989816531",
+          "name": "售后服务",
+          "fit": "通用",
+          "difficulty": "低",
+          "detail": "1.客户到店免费洗车打车；\n2.客户用车过程中细心帮助解答疑问。",
+          "effect": "",
+          "caution": ""
+        }
+      ]
+    },
+    "step4": {
+      "issues": [
+        {
+          "id": "1787990064304",
+          "desc": "缺少私域运营",
+          "severity": "high",
+          "dim": "运营管理",
+          "fix": "建立自己专属私域车友群，定期开展活动维护老车友，增加老带新转化率。",
+          "deadline": ""
+        },
+        {
+          "id": "1787990147488",
+          "desc": "销售话术",
+          "severity": "high",
+          "dim": "运营管理",
+          "fix": "增强销售话术培训，提高用户的留店时间，用活动政策提高用户的购买成交率。",
+          "deadline": ""
+        }
+      ],
+      "painPoints": ""
+    },
+    "step5": {
+      "caseTitle": "",
+      "caseType": "门店改造",
+      "applyRegion": "",
+      "background": "",
+      "coreExp": "",
+      "results": "",
+      "promotion": "",
+      "files": []
+    },
+    "createdAt": "2026-08-29T07:55:54.633Z",
+    "syncedAt": "2026-08-29T07:55:58.562Z",
+    "tdocUrl": null
+  },
+  {
     "id": "1787805099358",
     "step1": {
       "date": "2026-08-27",
